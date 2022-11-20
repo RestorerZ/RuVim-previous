@@ -17,7 +17,7 @@ __Линейка версий программы Vim 6.3__
 файл раскладки клавиатуры «russian-typograph.vim»;
 файлы учебника в каталог «tutor»;
 файлы READMERU.txt для каталогов «keymap», «syntax» и «lang».
-Исходные файлы перевода доступны по адресу https://sourceforge.net/projects/ruvim/files/ruvim-doc-beta/ruvim-0.5/
+Исходные файлы перевода доступны по адресу [https://sourceforge.net/projects/ruvim/files/ruvim-doc-beta/ruvim-0.5/](https://sourceforge.net/projects/ruvim/files/ruvim-doc-beta/ruvim-0.5/)
 
 __Линейка версий прогрммы Vim 7.4__
 
