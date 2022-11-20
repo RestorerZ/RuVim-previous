@@ -97,7 +97,7 @@ menutranslate Show\ C&olor\ Schemes\ in\ Menu	Показать\ меню\ выбора\ цве&товой\
 menutrans C&olor\ Scheme			Цветовая\ с&хема
 menutranslate Show\ &Keymaps\ in\ Menu		Показать\ меню\ выбора\ раскладки\ к&лавиатуры
 menutrans &Keymap				&Раскладка\ клавиатуры
-menutrans &Keymap.None				Не\ использовать
+menutrans None					Не\ использовать
 menutrans Select\ Fo&nt\.\.\.			&Шрифт\.\.\.
 ">>>----------------- Edit/Global settings
 menutrans Toggle\ Pattern\ &Highlight<Tab>:set\ hls!	    Подсвечивать\ &совпадения<Tab>:set\ hls!
