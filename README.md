@@ -63,7 +63,7 @@ __The range of versions of the Vim 6.3 program__
 
 Here is a translation prepared by Vasily Ragozin.
 This is one of the first and most complete translations made for the editor Vim.  
-The message file (with a few of my edits) corresponds to the Vim 6.3 version of the program.  
+The message file (with a few of my edits) corresponds to the Vim 6.3a version of the program.  
 I also added the following:
 - message file in CP866 text encoding;  
 - CP866 text-encoded menu files and related files;  
