@@ -2,7 +2,7 @@
 " Maintainer:		Restorer, <restorer@mail2k.ru>
 " Previous Maintainer:	Sergey Alyoshin, <alyoshin.s@gmail.com>
 "			vassily ragosin, <vrr[at]users.sourceforge.net>
-" Last Change:		13 Nov 2022
+" Last Change:		13 Dce 2022
 " URL:			https://github.com/RestorerZ/RuVim
 "
 "
@@ -22,7 +22,7 @@ let g:did_menu_trans = 1
 let s:keepcpo= &cpo
 set cpo&vim
 
-scriptencoding utf-8
+scriptencoding cp866
 
 " Top
 menutrans &File				&Файл
@@ -36,7 +36,7 @@ menutrans &Help				&Справка
 "
 "
 " Submenu of menu Help
-menutrans &Overview<Tab><F1>		&Содержание<Tab>F1
+menutrans &Overview<Tab><F1>		О&бщий\ обзор<Tab>F1
 menutrans &User\ Manual			&Руководство\ пользователя
 menutrans &How-to\ links		&Инструкции
 menutrans &Find\.\.\.			&Найти\.\.\.
