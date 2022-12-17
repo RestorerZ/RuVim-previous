@@ -3,7 +3,7 @@
 " Previous Maintainer:	Sergey Alyoshin, <alyoshin.s@gmail.com>
 "			vassily ragosin, <vrr[at]users.sourceforge.net>
 " Last Change:		17 Dec 2022
-" URL:			https://github.com/RestorerZ/RuVim-prev
+" URL:			https://github.com/RestorerZ/RuVim-previous
 "
 "
 " Adopted for RuVim project by Vassily Ragosin.
