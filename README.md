@@ -103,4 +103,4 @@ The message file conforms to all the above versions of this line.
 The message file conforms to all the above versions of this range.
 
 
-### Translations for the current version of the editor Vim program are in the repository [RuVim](https://github.com/RestorerZ/RuVim)
+### Translations for the current version of the program "Vim Editor" are in the repository [RuVim](https://github.com/RestorerZ/RuVim)
