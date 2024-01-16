@@ -48,6 +48,12 @@
 
 Файл сообщений соответствует всем вышеуказанным версиям данной линейке.
 
+#### Линейка версий программы Vim 9.0
+
+- Версия Vim 9.0.2190 — последняя в линейке версий 9.0
+
+Файл сообщений соответствует всем вышеуказанным версиям данной линейке.
+
 
 ### Переводы для текущей версии программы «Редактор Vim» находятся в хранилище [RuVim](https://github.com/RestorerZ/RuVim)
 
@@ -99,6 +105,12 @@ The message file conforms to all the above versions of this line.
 #### The range of versions of the Vim 8.2 program
 
 - Vim version 8.2.5172: is the latest in the 8.2 version range
+
+The message file conforms to all the above versions of this range.
+
+#### The range of versions of the Vim 9.0 program
+
+- Vim version 9.0.2190: is the latest in the 9.0 version range
 
 The message file conforms to all the above versions of this range.
 
